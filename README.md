@@ -8,13 +8,13 @@ This project will demonstrate the importance of building the right data represen
 
 
 Project OVerview:
-    1. Project Instructions & Prerequisites
-    2. Learning Objectives
-    3. Data Preparation
-    4. Create Categorical Features with TF Feature Columns
-    5. Create Continuous/Numerical Features with TF Feature Columns
-    6. Build Deep Learning Regression Model with Sequential API and TF Probability Layers
-    7. Evaluating Potential Model Biases with Aequitas Toolkit
+1. Project Instructions & Prerequisites
+2. Learning Objectives
+3. Data Preparation
+4. Create Categorical Features with TF Feature Columns
+5. Create Continuous/Numerical Features with TF Feature Columns
+6. Build Deep Learning Regression Model with Sequential API and TF Probability Layers
+7. Evaluating Potential Model Biases with Aequitas Toolkit
 
 
 
