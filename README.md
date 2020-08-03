@@ -7,7 +7,7 @@ Utilizing a synthetic dataset (denormalized at the line level augmentation) buil
 This project will demonstrate the importance of building the right data representation at the encounter level, with appropriate filtering and preprocessing/feature engineering of key medical code sets. This project will also analyze and interpret model for biases across key demographic groups.
 
 
-Project OVerview:
+Project Overview:
 1. Project Instructions & Prerequisites
 2. Learning Objectives
 3. Data Preparation
@@ -17,10 +17,11 @@ Project OVerview:
 7. Evaluating Potential Model Biases with Aequitas Toolkit
 
 
+### EDA
+![EDA](images/EDA.png)
 
+### Model
+![Model](images/model.png)
 
-## EDA
-
-## Model
-
-## Aequitas
+### Aequitas
+![Aequitas](images/aequitas.png)
